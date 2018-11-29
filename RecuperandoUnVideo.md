@@ -14,11 +14,11 @@ Esto quiere decir que, al colgarse la aplicación, no se escribió la _tabla de 
 
 Luego de una búsqueda por Google, y toparme con varias aplicaciones _payware_ para Window$ que promenten resolver el problema, conseguí el siguiente link:
 
-https://superuser.com/questions/1033251/how-to-recover-1-4gb-video-file-that-cant-be-read-canon
+(https://superuser.com/questions/1033251/how-to-recover-1-4gb-video-file-that-cant-be-read-canon)
 
 Que me llevó a este otro link:
 
-https://superuser.com/questions/417100/how-to-open-and-repair-an-m4v-or-mp4-video-file
+[https://superuser.com/questions/417100/how-to-open-and-repair-an-m4v-or-mp4-video-file]
 
 Que, por último ;-) me llevó a la herramienta *Software Libre* que estaba buscando y que reparó el video:
 
