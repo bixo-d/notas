@@ -8,4 +8,4 @@ Siempre he tratado de crear un blog para documentar el aprendizaje de todos los 
 
 Con el tiempo, esto tendrá más forma, pero por ahora aquí va un listado de las soluciones, sin un orden específico.
  
-[Cómo recuperar un video que no tiene ATOM MOOV](https://bixo-d.github.io/notas/RecuperandoUnVideo)
+- [Cómo recuperar un video que no tiene ATOM MOOV](https://bixo-d.github.io/notas/RecuperandoUnVideo)
