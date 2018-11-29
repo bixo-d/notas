@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi página de notas
 
-You can use the [editor on GitHub](https://github.com/bixo-d/notas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+En el día a día uno se encuentra con problemas, a los que uno les tiene que buscar solución. Muchas veces uno resuelve los problemas, pero luego se le olvida cómo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En particular, a mi los problemas que me gusta resolver son los asociados a mi área de experticia, electrónica y computación, muchos problemas tienden a repetirse y uno se encuentra nuevamente tratando de resolver un problema que resolvió con anterioridad, pero no se acuerda como.
 
-### Markdown
+Siempre he tratado de crear un blog para documentar el aprendizaje de todos los días, pero las herramientas son algo engorrosas, y al final, se terminan convirtiendo más en un problema que en una solución.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bixo-d/notas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Con el tiempo, esto tendrá más forma, pero por ahora aquí va un listado de las soluciones, sin un orden específico.
+ 
+[Cómo recuperar un video que no tiene ATOM MOOV](https://bixo-d.github.io/notas/RecuperandoUnVideo)
